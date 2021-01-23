@@ -1,0 +1,6 @@
+E:\LogicalPrograms\LogicalPrograms_Sai\LogicalPrograms_Sai\bin\Debug\LogicalPrograms_Sai.exe.config
+E:\LogicalPrograms\LogicalPrograms_Sai\LogicalPrograms_Sai\bin\Debug\LogicalPrograms_Sai.exe
+E:\LogicalPrograms\LogicalPrograms_Sai\LogicalPrograms_Sai\bin\Debug\LogicalPrograms_Sai.pdb
+E:\LogicalPrograms\LogicalPrograms_Sai\LogicalPrograms_Sai\obj\Debug\LogicalPrograms_Sai.csprojAssemblyReference.cache
+E:\LogicalPrograms\LogicalPrograms_Sai\LogicalPrograms_Sai\obj\Debug\LogicalPrograms_Sai.exe
+E:\LogicalPrograms\LogicalPrograms_Sai\LogicalPrograms_Sai\obj\Debug\LogicalPrograms_Sai.pdb
